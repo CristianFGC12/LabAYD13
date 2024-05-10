@@ -1,0 +1,10 @@
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\bin\Debug\SitioTendencia.exe.config
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\bin\Debug\SitioTendencia.exe
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\bin\Debug\SitioTendencia.pdb
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\obj\Debug\SitioTendencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\obj\Debug\SitioTendencia.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\obj\Debug\SitioTendencia.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\obj\Debug\SitioTendencia.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\obj\Debug\SitioTendencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\obj\Debug\SitioTendencia.exe
+C:\Users\Usuario\OneDrive\Documentos\ANALISISYD\WebApplication1\SitioTendencia\obj\Debug\SitioTendencia.pdb
